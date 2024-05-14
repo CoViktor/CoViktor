@@ -6,7 +6,7 @@
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/viktor-cosaert/)
 - ⚡ Fun fact: I have 3 chickens, named Graphite, Curry, and Rebecca
 
-**Some Tools I've used**:
+**Some of the Tools I've used**:
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
