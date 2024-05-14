@@ -25,9 +25,9 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/> </a>
-<a href="https://www.ibm.com/spss" target="_blank" rel="noreferrer"> <img src="https://www.ibmbigdatahub.com/sites/default/files/d8/inline-images/IBM%20SPSS.png" alt="spss" width="40" height="40"/> </a>
+<a href="https://www.ibm.com/spss" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180523/gss/kisspng-spss-modeler-ibm-computer-software-statistics-boards-5b05cf77cc75f0.3151321715271074478375.jpg" alt="spss" width="40" height="40"/> </a>
 <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Gray.png" alt="rstudio" width="40" height="40"/> </a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mlflow-logo-8A1C44A438-seeklogo.com.png" alt="mlflow" width="40" height="40"/> </a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://adatis.co.uk/wp-content/uploads/MLflow-logo.png" alt="mlflow" width="40" height="40"/> </a>
 <a href="https://joblib.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://joblib.readthedocs.io/en/latest/_static/joblib_logo.svg" alt="joblib" width="40" height="40"/> </a>
 </p>
 
@@ -35,5 +35,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/> </a>
-<a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://render.com/images/logos/render-logo-blue.png" alt="render" width="40" height="40"/> </a>
+<a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/0/1702595267620/renderco_logo?e=2147483647&v=beta&t=Ywm0UZpTXbiXPopyfCDty8QXSEVz88QWWCwy28qLUyE" alt="render" width="40" height="40"/> </a>
 </p>
