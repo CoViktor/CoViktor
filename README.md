@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Viktor
 - 👀 I’m interested in AI, Data, Sociology, Public health, Critical thinking, People and their stories
-- 🌱 I’m currently learning Machine Learning at [BeCode.org](https://becode.org/)
 - 🔨 Check out what I've created so far here: [repositories](https://github.com/CoViktor?tab=repositories)
 - 💞️ I’m looking to collaborate on projects that provide learning oportunities on python and ML
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/viktor-cosaert/)
-- ⚡ Fun fact: I have 3 chickens, named Graphite, Curry, and Rebecca
+- ⚡ Fun fact: I have 3 chickens named Graphite, Curry, and Rebecca and 2 cats named Madeleine and Mila
 
 **Some of the Tools I've been working with**:
 
